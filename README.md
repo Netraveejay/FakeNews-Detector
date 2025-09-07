@@ -1,7 +1,7 @@
 # 📰 Fake News Detector
 
 An **AI-powered mini project** that detects fake news using **NLP + Logistic Regression**.
-Built  in **Google Colab** and achieved **94% accuracy**.
+Built  in **Google Colab** and achieved **99.46% accuracy**.
 
 
 ## ✨ Features
@@ -44,9 +44,3 @@ Built  in **Google Colab** and achieved **94% accuracy**.
 * Scikit-Learn 
 * NLTK 
 
-2. Save them → upload into `images/` folder of repo.
-3. README will auto-display them ✨
-
----
-
-Want me to **make you a list of must-have screenshots** (like confusion matrix, metrics bar chart, UI box) so you know exactly which images to capture for GitHub?
